@@ -1,3 +1,4 @@
 Jenkins - git plugin check #1
 Settiing up gitHub Webhook on Master = http://54.206.67.130:8080
-Job is running on slave node name = slave1
+Job is running on slave node ( name = slave1 )
+slave node public ip = 54.252.185.106
