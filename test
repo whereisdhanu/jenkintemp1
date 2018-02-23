@@ -1,6 +1,2 @@
-Jenkins - git plugin check #2
-second checkpoint
-test pipeline #3
-test github hook with Jenkins
-Added Jenkins-Slave1 to link with Git plugin hook
-Added New Line #1
+Jenkins - git plugin check #1
+Settiing up gitHub Webhook on Master = http://54.206.67.130:8080
