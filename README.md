@@ -1,5 +1,5 @@
 # jenkintemp1
 
-Test changes #3
+Test changes #1
 
-Check for changes
+Check for changes done for github plugin implemented for jenkins ci
