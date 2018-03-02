@@ -3,3 +3,4 @@ Settiing up gitHub Webhook on Master = http://13.211.58.27:8080
 Job is running on slave node ( name = slave1 )
 slave node public ip = 54.206.42.13
 Added docker run hello-world
+Jenkins job set up to test.
